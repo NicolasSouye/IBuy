@@ -11,7 +11,7 @@ L’application « IBuy » est une application EBay like faite dans le cadre de 
 * Gestion de mise en favoris d'annonces
 * Système de confiance (un utilisateur peut donner son avis sur un vendeur permettant un meilleur référencement de celui-ci)
 
-## Auteurs
+# Auteurs
 
 * [GEORGES Tanguy](https://github.com/Tanguy2311)
 * [HICOR Hamza](https://github.com/Hicorhamza)
